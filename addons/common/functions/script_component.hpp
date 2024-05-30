@@ -1,0 +1,1 @@
+#include "\z\xgrps\addons\common\script_component.hpp"

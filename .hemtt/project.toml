@@ -1,0 +1,28 @@
+name = "xgrps"
+mainprefix = "z"
+prefix = "xgrps"
+author = "YonV"
+
+[files]
+include = [
+    "mod.cpp",
+    "README.md",
+    "LICENSE",
+    "3rdparty",
+    "AUTHORS.txt",
+    "logo_512.paa",
+    "logo_512.paa",
+    "2035_modern_equipment_replacment_helmet.png",
+    "2023-11-18_12-57-37.png"
+]
+
+exclude = ["*.psd", "*.tga"]
+
+[version]
+path = "addons/main/script_version.hpp"
+
+[asc]
+exclude = [
+    ".inc.sqf",
+    "cba_settings.sqf",
+]
